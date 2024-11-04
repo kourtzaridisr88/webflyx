@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Titles
 
 * A River Runs Through It
@@ -7,6 +6,3 @@
 * The Big Short
 * 12 Monkeys
 * The Curious Case of Benjamin Button
-=======
-* The Internship
->>>>>>> 4d859e4 (E:)
